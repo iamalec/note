@@ -1,1 +1,3 @@
+
+:
 ubuntu 安装mongodb
